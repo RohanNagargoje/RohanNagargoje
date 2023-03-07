@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RohanNagargoje
 - 👀 I’m interested in Programming and Electronics
-- 🌱 I’m currently learning Artifical Intelegence
+- 🌱 I’m currently learning Artifical Intelligence
 - 📫 How to reach me : Email me on : rohannagargoje52@gmail.com
 - 💼 If you looking for someone that can build electronics and as well as softwares for it contact me on my email 
 <!---
