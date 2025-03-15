@@ -5,8 +5,8 @@
 ---
 
 ## 👨‍💻 **About Me**  
-🔹 Passionate about **Software Development, Hardware Engineering, Embedded Systems, AI/ML, and Mobile App Development**.  
-🔹 Experienced in building **desktop applications, web solutions, embedded firmware, AI-driven systems, FPGA-based accelerators, and mobile applications**.  
+🔹 Passionate about **Software Development, Hardware Engineering, Embedded Systems, AI/ML, Mobile Development, and PCB Design**.  
+🔹 Experienced in building **desktop applications, web solutions, embedded firmware, AI-driven systems, FPGA-based accelerators, mobile applications, PLC-based automation systems, and circuit simulation**.  
 🔹 Currently exploring **cutting-edge technologies in AI, IoT, cloud computing, automation, LLM development, and Android app development**.  
 
 ---
@@ -26,7 +26,10 @@
 ![Electron.js](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white) ![WPF](https://img.shields.io/badge/WPF-512BD4?style=flat&logo=windows&logoColor=white)  
 
 ### 🔧 **Hardware & Embedded Systems**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-FF4500?style=flat&logo=intel&logoColor=white) ![Verilog](https://img.shields.io/badge/Verilog-000000?style=flat) ![VHDL](https://img.shields.io/badge/VHDL-800080?style=flat)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat&logo=espressif&logoColor=white) ![FPGA](https://img.shields.io/badge/FPGA-FF4500?style=flat&logo=intel&logoColor=white) ![Keil uVision](https://img.shields.io/badge/Keil%20uVision-00599C?style=flat&logo=arm&logoColor=white) ![PLC](https://img.shields.io/badge/PLC%20Design-Eagle-FF4500?style=flat&logo=autodesk&logoColor=white)  
+
+### 🛠 **PCB Design & Circuit Simulation**  
+![Eagle](https://img.shields.io/badge/Eagle-FF4500?style=flat&logo=autodesk&logoColor=white) ![Altium Designer](https://img.shields.io/badge/Altium%20Designer-00599C?style=flat&logo=altiumdesigner&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-00979D?style=flat&logo=kicad&logoColor=white) ![Proteus](https://img.shields.io/badge/Proteus-000080?style=flat&logo=proteus&logoColor=white) ![LTSpice](https://img.shields.io/badge/LTSpice-8A2BE2?style=flat&logo=analogdevices&logoColor=white) ![Multisim](https://img.shields.io/badge/Multisim-FFD700?style=flat&logo=ni&logoColor=black)  
 
 ### 🤖 **AI/ML & Data Science**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD500?style=flat&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-3776AB?style=flat) ![Llama](https://img.shields.io/badge/Llama_AI-FF4500?style=flat)  
