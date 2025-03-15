@@ -5,16 +5,19 @@
 ---
 
 ## 👨‍💻 **About Me**  
-🔹 Passionate about **Software Development, Hardware Engineering, Embedded Systems, and AI/ML**.  
-🔹 Experienced in building **desktop applications, web solutions, embedded firmware, AI-driven systems, and FPGA-based accelerators**.  
-🔹 Currently exploring **cutting-edge technologies in AI, IoT, cloud computing, automation, and LLM development**.  
+🔹 Passionate about **Software Development, Hardware Engineering, Embedded Systems, AI/ML, and Mobile App Development**.  
+🔹 Experienced in building **desktop applications, web solutions, embedded firmware, AI-driven systems, FPGA-based accelerators, and mobile applications**.  
+🔹 Currently exploring **cutting-edge technologies in AI, IoT, cloud computing, automation, LLM development, and Android app development**.  
 
 ---
 
 ## 🛠 **Tech Stack & Skills**  
 
 ### 🚀 **Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-239120?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-239120?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)  
+
+### 📱 **Mobile App Development**  
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=android&logoColor=white)  
 
 ### 🌍 **Web Development**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=flat&logo=WebAssembly&logoColor=white)  
@@ -34,5 +37,3 @@
 📧 Email: [rohannagargoje79@gmail.com](mailto:rohannagargoje79@gmail.com)  
 🔗 GitHub: [github.com/RohanNagargoje](https://github.com/RohanNagargoje)  
 🔗 LinkedIn: [linkedin.com/in/rohan-nagargoje-441629205/](https://www.linkedin.com/in/rohan-nagargoje-441629205/)  
-
----
