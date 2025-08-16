@@ -1,6 +1,6 @@
 # 🛠 **Rohan Nagargoje** | Developer & Engineer  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohan-nagargoje-441629205/)  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/RohanNagargoje)  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:rohannagargoje79@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohan-nagargoje-441629205/)  [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/RohanNagargoje)  [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:rohannagargoje79@gmail.com) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-🤗-blue)](https://huggingface.co/minirobot)
 
 ---
 
